@@ -43,6 +43,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     border-bottom: 1px solid rgba(255, 255, 255, .1);
+    border-top: 1px solid rgba(255, 255, 255, .1);
 }
 
 .barra-lateral .menu a:hover {
@@ -111,6 +112,7 @@ body {
     padding: 10px;
     width: 200px;
     border-radius: 10px;
+    margin-right: 15px;
     transition: all .3s ease;
 }
 
